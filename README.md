@@ -6,6 +6,7 @@ Code and supporting material for live course demonstrations and starter snippets
 
 ```text
 CS5401/
+├── course-materials/ # Imported course code and adaptation guidance
 ├── live-coding/       # Examples developed or demonstrated during class
 ├── student-snippets/  # Starter code for students to complete or modify
 └── resources/        # Shared sample data, diagrams, and reference material
@@ -24,3 +25,9 @@ CS5401/
 Open the relevant folder in `student-snippets/`, read its README, and follow the setup and editing instructions. Use `live-coding/` to revisit examples covered in class.
 
 The repository is language-neutral. Each example should specify its required language version and tools.
+
+## Generative Deep Learning
+
+The code for David Foster's *Generative Deep Learning, 2nd Edition* is included directly in [course-materials/generative-deep-learning](course-materials/generative-deep-learning/). It is available with a normal clone of CS5401 and can be customized here for the course.
+
+Read the [CS5401 course guide](course-materials/README.md) for setup, customization, attribution, and upstream updates.
